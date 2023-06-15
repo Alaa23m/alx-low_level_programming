@@ -3,7 +3,7 @@
 /**
  * main -Entry 
  * 
- * Description: it's a program that prints with put function.
+ * Description: A C  program that prints with put function.
  *
  * Return: Alawys 0 (Success)
 */
