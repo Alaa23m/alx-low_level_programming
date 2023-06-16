@@ -1,10 +1,10 @@
 #include <unistd.h>
 
 /**
- * main -Entry
+ * main - Entry point
  *
- * description: print aqout
- *	write(int)
+ * description: print a qout using write function.
+ *	write(int fd.const void *buf.siz_t count)
  *
  * Return: 1 (Not success)
 */
