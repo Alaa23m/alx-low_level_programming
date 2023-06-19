@@ -3,11 +3,11 @@
 #include <stdio.h>
 
 /**
- * main - entry
+ * main - entry point
  *
  * description: Positive or nagitiv
  *
- * Return : 0 (success)
+ * return : 0 (success)
 */
 int main(void)
 {

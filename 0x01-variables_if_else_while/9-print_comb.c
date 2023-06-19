@@ -3,7 +3,7 @@
 /**
  * main - entry point
  *
- * description: print 0, 1, - 9
+ * Description: print 0, 1, - 9.
  *
  * Return: always 0 (success)
 */

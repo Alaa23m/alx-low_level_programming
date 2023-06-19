@@ -3,7 +3,7 @@
 /**
  * main - entry point
  *
- * description: print all alphabet letters e q and e
+ * Description: print all alphabet letters e q and z
  *
  * Return: always 0 (success)
 */
